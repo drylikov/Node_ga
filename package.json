@@ -1,0 +1,21 @@
+
+{
+  "name": "ga",
+  "description": "server side google analytics",
+  "version": "0.0.2",
+  "homepage": "https://github.com/drylikov/Node_ga",
+  "authors": ["Denis Rylikov, @drylikov"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/Node_ga.git"
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "devDependencies": {
+    "qunit": "*"
+  },
+  "main": "./index.js",
+  "keywords": ["google analytics"]
+}
